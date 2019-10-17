@@ -1,0 +1,14 @@
+{
+  "video": false,
+  "baseUrl": "http://localhost:8080/",
+  "defaultCommandTimeout": 10000,
+  "env": {
+    "api_server": "https://ongrad.herokuapp.com"
+  },
+  "integrationFolder": "tests/e2e/specs",
+  "screenshotsFolder": "tests/e2e/screenshots",
+  "fixturesFolder": "tests/e2e/fixtures",
+  "videosFolder": "tests/e2e/videos",
+  "supportFile": "tests/e2e/support/index",
+  "pluginsFile": "tests/e2e/plugins/index"
+}
